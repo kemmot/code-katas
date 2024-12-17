@@ -1,2 +1,4 @@
 day 1, part 1: 2430334
-day 1, part 2: 
+day 1, part 2: 28786472
+day 2, part 1: 526
+day 2, part 2: 
