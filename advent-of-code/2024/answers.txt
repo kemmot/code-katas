@@ -3,3 +3,5 @@ day 1, part 2: 28786472
 day 2, part 1: 526
 day 2, part 2: 566
 day 3, part 1: 170778545
+day 3, part 2: 82868252
+
